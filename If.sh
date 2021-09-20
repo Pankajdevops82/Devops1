@@ -1,3 +1,3 @@
 #!/bin/bash
 
-Echo ""Pankaj Devops"
+Echo "Pankaj Devops"
